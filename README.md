@@ -2,7 +2,7 @@
 
 Framework for direct-memory-access and MMU management required for emulation.
 
-Dependencies: DEngine and VulkanHpp for runtime-moudules.
+Dependencies: DEngine and VulkanHpp for runtime-modules.
 
 Please read this document carefully, as it tell you what this is all about,
 explain how to build and use the hypervisor, and what to do if something
