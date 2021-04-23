@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "georgewfraser.vscode-javac",
+        "johnstoncode.svn-scm",
+        "humyang.view-git-branch-merged-status",
+        "mjcrouch.perforce",
+        "slevesque.perforce"
+    ]
+}
